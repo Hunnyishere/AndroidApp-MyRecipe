@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goal_array">
+        <item>Please select your goal:</item>
+        <item>Lose Weight</item>
+        <item>Shape Body</item>
+        <item>Gain Muscle</item>
+    </string-array>
+</resources>

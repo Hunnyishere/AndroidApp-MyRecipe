@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyRecipe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="Instruction">Instruction</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="AddToCollection">Add To Collection</string>
+    <string name="AddToMealplan">Add To MealPlan</string>
+    <string name="SimilarRecipe">Similar Recipes</string>
+    <string name="recipe_note">user note</string>
+    <string name="edit_collection_name">edit collection name</string>
+    <string name="edit_collection_description">edit collection description</string>
+    <string name="save_button">save</string>
+    <string name="cancel_button">cancel</string>
+    <string name="collection_name">collection name</string>
+    <string name="collection_description">collection description</string>
+    <string name="delete_button">delete</string>
+    <string name="return_button">return</string>
+    <string name="edit_button">edit</string>
+    <string name="edit_username">username</string>
+    <string name="edit_height">height</string>
+    <string name="edit_weight">weight</string>
+    <string name="IngredientUnit">Unit</string>
+    <string name="user_name">username</string>
+    <string name="email">email</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="goal">goal</string>
+    <string name="collection_title">collections</string>
+    <string name="add_collection">add</string>
+    <string name="log_out">log out</string>
+</resources>
