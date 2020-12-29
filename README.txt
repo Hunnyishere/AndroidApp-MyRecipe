@@ -1,9 +1,14 @@
-App Name: MyRecipe
-Team Members: Haoyu Wu
-              Ruoyao Yang
-              Jialun Chen
+- App Name: MyRecipe
 
-Project Description
+- Project final presentation slides  
+https://docs.google.com/presentation/d/1KVR0hTI3Wg_qbYvfZUW8Rcjv6XK3JwBg_l-_jfQvj7A/edit?usp=sharing
+
+- Project Demo  
+https://drive.google.com/file/d/1BTRxnBoCPFLFdOFTlIWhS1t8D2HJ7dsT/view?usp=sharing
+
+- Team Members: Haoyu Wu, Ruoyao Yang, Jialun Chen
+
+- Project Description  
 Motivation:
 During the special virus quarantine period, most people enjoy cooking and exploring recipes, and keeping track of food intake is an important way to stay healthy.
 Therefore, we decide to build an app that can search recipes with our available ingredients at home, and add recipes we're interested in to our own Favorite collections. We can also customize personal meal plan in this app to keep track of nutrients and calories intake.
@@ -29,10 +34,7 @@ Features:
 3. The app will alert the user what nutrients he/she lacks from previous meals, and recommend recipes that are rich in these nutrients to the user
 
 
-In this file you should include:
-
-Any information you think we should know about your submission
-
+- Additional notes
 It can't be said issues but some imperfect performances because of APIs.
 The first is that imageUrl returned by API may be null, so we do judgement and using another image when it returns an empty imageUrl.
 The second is that smart meal page has no photho shown with recipes because the API used to return the imageUrl but now there is no imageUrl.
